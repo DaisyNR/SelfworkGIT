@@ -1,5 +1,5 @@
 *{
-     .poppins-thin {
+      .poppins-thin {
         font-family: "Poppins", sans-serif;
         font-weight: 100;
         font-style: normal;
@@ -108,3 +108,27 @@
       }
       
 }
+
+
+
+.header-custom {
+  background-image: url(./media/Plane.jpg);
+  background-position: center;
+  background-size: cover;
+  margin-top: 60px;
+}
+
+.text-br {
+  color: var(--br);
+}
+
+:root{
+  --br: rgb(rgb(100, 38, 1);
+  --offw: rgb(250, 221, 201);
+}
+
+
+
+
+
+
