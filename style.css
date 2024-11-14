@@ -112,10 +112,16 @@
 
 
 .header-custom {
-  background-image: url(./media/Plane.jpg);
+  background-image: linear-gradient(transparent,black), url(./media/plane.webp);
   background-position: center;
   background-size: cover;
   margin-top: 60px;
+  
+}
+
+h1{
+  letter-spacing: 5px;
+  text-shadow: 4px 4px 4px black;
 }
 
 .text-br {
